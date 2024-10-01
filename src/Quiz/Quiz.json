@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Which variable willp gets stored in Global scope?",
+        "option1": "var",
+        "option2": "let",
+        "option3": "const",
+        "option4": "int",
+        "ans": 1
+    },
+    {
+        "question": "What is datatype is of Array?",
+        "option1": "string",
+        "option2": "object",
+        "option3": "number",
+        "option4": "boolean",
+        "ans": 2
+    },
+    {
+        "question": "What a bind method returns",
+        "option1": "1",
+        "option2": "object",
+        "option3": "bound function",
+        "option4": "int",
+        "ans": 3
+    }
+    
+]
